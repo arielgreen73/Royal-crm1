@@ -1,0 +1,8 @@
+# IDE fies
+.vscode
+.idea
+
+# project
+/node_modules/
+/config/
+/files/
